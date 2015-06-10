@@ -8074,10 +8074,13 @@ img {
 }
 
 .f4 {
+  font-size: 1.25rem;
+}
+
+.f5 {
   font-size: 1rem;
 }
 
-.f5,
 .small {
   font-size: .85rem;
 }
@@ -8096,14 +8099,18 @@ img {
   }
 
   .f3-ns {
-    font-size: 1.5em;
+    font-size: 1.5rem;
   }
 
   .f4-ns {
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 
   .f5-ns {
+    font-size: 1rem;
+  }
+
+  .small-ns {
     font-size: .85rem;
   }
 }
@@ -8126,10 +8133,14 @@ img {
   }
 
   .f4-m {
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 
   .f5-m {
+    font-size: 1rem;
+  }
+
+  .small-m {
     font-size: .85rem;
   }
 }
@@ -8152,10 +8163,14 @@ img {
   }
 
   .f4-l {
-    font-size: 1rem;
+    font-size: 1.25rem;
   }
 
   .f5-l {
+    font-size: 1rem;
+  }
+
+  .small-l {
     font-size: .85rem;
   }
 }
